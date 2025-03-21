@@ -1,0 +1,10 @@
+TAREA 1
+//crea una función que reciba una cadena de texto como parámetro y devuelva la palabra más larga de la cadena. 
+si hay varias palabras con la misma longitud máxima, la función debe devolver la primera de ellas. por ejemplo, 
+si la cadena de texto es "la programación es muy interesante", la función debe devolver "programación". 
+puedes usar el método split() para dividir la cadena en un array de palabras y luego iterar sobre el array para encontrar la palabra más larga//
+
+TAREA 2
+//generación de un número aleatorio: crea una función que genere un número aleatorio entre dos valores dados como parámetros y lo devuelva. 
+por ejemplo, si los valores son 1 y 10, la función debe devolver un número aleatorio entre 1 y 10 (inclusive). puedes usar la función math.random()
+para generar un número aleatorio entre 0 Y 1 y luego escalarlo al rango deseado.//
